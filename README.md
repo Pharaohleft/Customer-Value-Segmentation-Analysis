@@ -1,5 +1,5 @@
 
-# Customer Value Maximization & Churn Prevention Analysis (1 Million Transactions)
+# Customer Value Maximization & Churn Prevention Analysis 
 
 ## Intro
 
