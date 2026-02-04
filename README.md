@@ -1,5 +1,5 @@
 
-# Customer Value Maximization & Churn Prevention Analysis 
+# Customer Value Maximization & Churn Analysis 
 
 ## Intro
 
